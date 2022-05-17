@@ -1,3 +1,2 @@
-console.log("hello ...");
-alert("message from alert");
-alert("message from alert");
+console.log("log num 1 ...");
+alert("alert num 1");
